@@ -1,0 +1,1 @@
+This is just a test app to see if I can run the Stanford NER server from a separate Heroku application and access it with another Heroku application.
